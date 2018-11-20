@@ -1,1 +1,1 @@
-# Social-Network-Analysis-to-Expose-Corruption
+# Social Network Analysis to Expose Corruption
